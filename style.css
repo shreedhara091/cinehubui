@@ -308,8 +308,8 @@ a {
 
     .vid1 {
         width: 225px;
-        height: auto;
-        top: -165px;
+        /* height: auto; */
+        top: -230px;
     }
 
     .span1 {
