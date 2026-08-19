@@ -29,7 +29,9 @@ ShreeFlix/
 
 ## 📸 Preview
 
-Add a screenshot of the project here.
+## 📸 Preview
+
+![ShreeFlix Preview](./shreeflix-preview.png)
 
 ## 🌐 Live Demo
 
