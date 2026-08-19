@@ -18,16 +18,12 @@ A movie-focused web interface built with **HTML and CSS**, designed to provide a
 
 ## 📁 Project Structure
 
-```text
 ShreeFlix/
 ├── photo/        # Images and movie artwork
 ├── videos/       # Video content
 ├── index.html    # Main webpage
 ├── style.css     # Website styling
 └── README.md     # Project documentation
-```
-
-## 📸 Preview
 
 ## 📸 Preview
 
@@ -35,7 +31,7 @@ ShreeFlix/
 
 ## 🌐 Live Demo
 
-Add the live project link here if deployed.
+[🎬 ShreeFlix Live Demo](https://cinehubui.netlify.app/)
 
 ## 📚 What I Learned
 
@@ -52,3 +48,4 @@ Through this project, I practiced:
 **Shreedhara**
 
 GitHub: [@shreedhara091](https://github.com/shreedhara091)
+
